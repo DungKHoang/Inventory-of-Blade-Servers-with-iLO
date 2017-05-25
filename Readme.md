@@ -1,4 +1,4 @@
-*This script will collect information of DL and BL Servers using HPiLORESTCmdlets
+*This script collects information of DL and BL Servers using HPiLORESTCmdlets
 
 Prerequisites:
 - Windows POwerShell 5.0
@@ -17,4 +17,4 @@ Run the script
 
 
 Result:
- - List of CSV files ( see samples)
+ - List of CSV files ( see samples in ZIP)
